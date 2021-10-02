@@ -1,0 +1,2 @@
+(this["webpackJsonpqnquant-website"]=this["webpackJsonpqnquant-website"]||[]).push([[0],{16:function(n,e,t){},23:function(n,e,t){"use strict";t.r(e);t(0);var i=t(8),c=t.n(i),o=(t(16),t(11)),s=function(n){n&&n instanceof Function&&t.e(3).then(t.bind(null,24)).then((function(e){var t=e.getCLS,i=e.getFID,c=e.getFCP,o=e.getLCP,s=e.getTTFB;t(n),i(n),c(n),o(n),s(n)}))},u=t(5);c.a.render(Object(u.jsx)(o.a,{children:Object(u.jsx)("div",{children:"Hello"})}),document.getElementById("root")),s()}},[[23,1,2]]]);
+//# sourceMappingURL=main.b7bb362d.chunk.js.map
